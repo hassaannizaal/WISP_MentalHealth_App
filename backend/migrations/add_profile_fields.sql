@@ -1,0 +1,11 @@
+-- Add new profile fields to users table
+ALTER TABLE users
+ADD COLUMN IF NOT EXISTS full_name VARCHAR(100),
+ADD COLUMN IF NOT EXISTS date_of_birth DATE,
+ADD COLUMN IF NOT EXISTS gender VARCHAR(50),
+ADD COLUMN IF NOT EXISTS bio TEXT,
+ADD COLUMN IF NOT EXISTS preferred_mood_time TIME,
+ADD COLUMN IF NOT EXISTS hydration_goal INTEGER DEFAULT 2000,
+ADD COLUMN IF NOT EXISTS mindfulness_reminder_time TIME DEFAULT '09:00:00',
+ADD COLUMN IF NOT EXISTS emergency_contact TEXT,
+ADD COLUMN IF NOT EXISTS profile_image TEXT; 
