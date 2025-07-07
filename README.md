@@ -42,6 +42,7 @@
 
 ---
 📄 License
+
 This project is not open source and is licensed under a proprietary license.
 All rights reserved.
 You may not copy, modify, distribute, or use any part of this project without explicit permission.
