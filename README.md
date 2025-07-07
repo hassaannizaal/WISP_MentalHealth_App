@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Core Features (11 Total)
+## 🌟 Core Features
 
 1. **Mood Tracker** – Log how you feel twice a day and track your progress  
 2. **Daily Journal** – Express yourself through private writing  
@@ -47,7 +47,7 @@
 | Name              | GitHub Profile                          |
 |-------------------|------------------------------------------|
 | 💻 Ali Shaan       | [@Ali-Shaan](https://github.com/Ali-Shaan) |
-| 📱  Hassaan Nizaal  | [@Hassaan-Nizaal](https://github.com/hassanizaal) |
+| 📱  Hassaan Nizaal  | [@Hassaan-Nizaal](https://github.com/hassannizaal) |
 
 ---
 
