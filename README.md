@@ -52,7 +52,7 @@ You may not copy, modify, distribute, or use any part of this project without ex
 
 | Name              | GitHub Profile                          |
 |-------------------|------------------------------------------|
-| 📱  Hassaan Nizaal  | [@Hassaan-Nizaal](https://github.com/hassannizaal) |
+| 📱  Hassaan Nizaal  | [@Hassaan-Nizaal](https://github.com/hassaannizaal) |
 | 💻 Ali Shaan       | [@Ali-Shaan](https://github.com/Ali-Shaan) |
 
 
