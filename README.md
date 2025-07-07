@@ -38,7 +38,7 @@
 
 ## 🔗 Web App
 
-> 🖥️ [Web App Repository](#)  
+> 🖥️ [Web App Repository](https://github.com/Ali-Shaan/WISP_Web_App.git)  
 
 ---
 
@@ -47,7 +47,7 @@
 | Name              | GitHub Profile                          |
 |-------------------|------------------------------------------|
 | 💻 Ali Shaan       | [@Ali-Shaan](https://github.com/Ali-Shaan) |
-| 📱  Hassaan Nizaal  | [@Hassaan-Nizaal](https://github.com/username) |
+| 📱  Hassaan Nizaal  | [@Hassaan-Nizaal](https://github.com/hassanizaal) |
 
 ---
 
