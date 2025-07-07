@@ -46,8 +46,9 @@
 
 | Name              | GitHub Profile                          |
 |-------------------|------------------------------------------|
-| 💻 Ali Shaan       | [@Ali-Shaan](https://github.com/Ali-Shaan) |
 | 📱  Hassaan Nizaal  | [@Hassaan-Nizaal](https://github.com/hassannizaal) |
+| 💻 Ali Shaan       | [@Ali-Shaan](https://github.com/Ali-Shaan) |
+
 
 ---
 
